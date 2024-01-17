@@ -4,6 +4,7 @@ class Solution {
         //take are
         //int j=0;
         // checksum(j);
+        //uuhhg
         for(int j=0;j<nums.length;){
             for(int i=j+1;i<nums.length;i++){
                 if(nums[j]+nums[i]==target){
